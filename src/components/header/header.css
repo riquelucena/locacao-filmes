@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Audiowide-Regular';
+    src: url('../../assets/fonts/Audiowide-Regular.ttf') format('truetype');
+}
+
+.head {
+    background: linear-gradient(rgb(71, 100, 204), #212121);
+    color: rgb(243, 243, 243);
+    display: flex;
+    padding: 30px;
+}
+
+.head h1, .head p {
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+.head h1 {
+    font-size: 30px;
+    font-family: 'Audiowide-Regular';
+}
+
+.head p {
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    top: 12px;
+    left: 50px;    
+}

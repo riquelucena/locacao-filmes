@@ -1,0 +1,26 @@
+.div-direitos, .div-controle-de-estoque, .div-suporte, .div-redes-sociais {
+    color: #656565;
+    display: inline-block;
+    position: relative;
+    width: auto;
+    padding: 0px 20px 0px 90px;
+    vertical-align: top;    
+    top: 100cap;
+    left: 20cap;
+}
+
+.div-redes-sociais img {
+    max-width: 50px;
+    height: auto;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.div-direitos h4, .div-controle-de-estoque h4, .div-suporte h4 {
+    font-size: 22px;
+}
+
+.div-direitos p, .div-controle-de-estoque p, .div-suporte p, .div-redes-sociais p {
+    font-size: 17px;
+    margin: 5px;
+}
